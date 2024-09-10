@@ -12,7 +12,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 
-
 # loading and reading the dataset
 
 heart = pd.read_csv("heart_cleveland_upload.csv")
